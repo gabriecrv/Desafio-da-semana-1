@@ -1,0 +1,37 @@
+h1 {
+  font-family: "Outfit", Bitcount Ink;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+  color: white;
+}
+
+p {
+  font-family: "Outfit", Zalando Sans Expanded;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+  color: white;
+}
+title{
+  font-family: "Outfit", Bitcount Ink;
+  font-optical-sizing: auto;
+  font-weight: 200px;
+  font-style: normal;
+  color: white;
+}
+img.eleven{
+    width: 500px; 
+    height: auto; 
+    float: right; 
+    margin-right: 15px; 
+    margin-bottom: 10px;
+}
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+body{
+    background-color: black;
+}
